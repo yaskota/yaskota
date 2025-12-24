@@ -83,7 +83,7 @@ A WhatsApp-like chat app with real-time messaging, online status & media sharing
 
 ### 📡 IoT RFID Attendance System  
 RFID + ESP32 + MERN for automated attendance.  
-🔗 https://github.com/yaskota/attendencesystem
+🔗 https://github.com/yaskota/attendence_system
 
 ---
 

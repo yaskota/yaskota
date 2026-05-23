@@ -73,23 +73,22 @@ I'm deeply focused on **DSA**, **System Design**, and **clean engineering practi
 ---
 
 <!-- PROJECTS -->
-## 🚀 Featured Projects
 
 ### 💬 Real-Time Chat App  
-A WhatsApp-like chat app with real-time messaging, online status & media sharing.  
-🔗 https://messenger-pi-red.vercel.app/
+Designed and developed a WhatsApp-like chat application with real-time messaging, online status indicators, group chat, and secure media sharing. Integrated JWT authentication, Socket.io, and Cloudinary for a responsive and secure experience.  
+🔗 [Live Demo](https://messenger-pi-red.vercel.app/) | [GitHub](https://github.com/yaskota/messenger-pi-red)
 
 ---
 
 ### 📡 IoT RFID Attendance System  
-RFID + ESP32 + MERN for automated attendance.  
-🔗 https://github.com/yaskota/attendence_system
+Built an IoT-based attendance tracking system using ESP32, RFID, and the MERN stack. Enabled real-time synchronization through WebSockets and created an admin dashboard to reduce manual errors and improve tracking efficiency.  
+🔗 [GitHub](https://github.com/yaskota/attendence_system)
 
 ---
 
-### 🍽️ Smart Health Card 
-Medical History storing and gave AI assistence to Patients
-🔗 https://github.com/yaskota/Smart-Health-Card
+### 🍽️ Smart Health Card  
+Developed a secure healthcare platform for storing patient medical history and supporting users with an AI-based assistant for basic guidance and query handling. Implemented role-based access and authentication to protect sensitive patient data.  
+🔗 [GitHub](https://github.com/yaskota/Smart-Health-Card)
 
 ---
 

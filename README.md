@@ -41,7 +41,7 @@ I'm **Kota Yaswanth**, a passionate **Full Stack Developer (MERN)** who loves bu
 **real-time apps**, **backend systems**, and **scalable services**.  
 I'm deeply focused on **DSA**, **System Design**, and **clean engineering practices**.
 
-- 🔥 480+ LeetCode problems  
+- 🔥 520+ LeetCode problems  
 - 💬 Real-time messaging apps with Socket.io  
 - ⚡ WebSockets, JWT Auth, Cloudinary, CI/CD  
 - 🧠 IoT + MERN projects  
@@ -87,9 +87,9 @@ RFID + ESP32 + MERN for automated attendance.
 
 ---
 
-### 🍽️ FoodCart — Online Ordering System  
-A modern ordering system with real-time updates & category filtering.  
-🔗 https://hotelmenu-livid.vercel.app/
+### 🍽️ Smart Health Card 
+Medical History storing and gave AI assistence to Patients
+🔗 https://github.com/yaskota/Smart-Health-Card
 
 ---
 

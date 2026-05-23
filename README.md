@@ -86,7 +86,7 @@ Built an IoT-based attendance tracking system using ESP32, RFID, and the MERN st
 
 ---
 
-### 🍽️ Smart Health Card  
+###  Smart Health Card  
 Developed a secure healthcare platform for storing patient medical history and supporting users with an AI-based assistant for basic guidance and query handling. Implemented role-based access and authentication to protect sensitive patient data.  
 🔗 [GitHub](https://github.com/yaskota/Smart-Health-Card)
 

@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">🚀 KOTA YASWANTH</h1>
+<h1 align="center"> KOTA YASWANTH</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=00F5D4&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Engineer;Real-Time+App+Creator;Backend+Developer;Tech+Explorer+%26+Innovator" />
 </p>
